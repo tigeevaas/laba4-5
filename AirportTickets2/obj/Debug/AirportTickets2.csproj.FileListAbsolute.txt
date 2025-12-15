@@ -1,0 +1,18 @@
+C:\Users\tigee\source\repos\AirportTickets2\AirportTickets2\bin\Debug\AirportTickets2.exe.config
+C:\Users\tigee\source\repos\AirportTickets2\AirportTickets2\bin\Debug\AirportTickets2.exe
+C:\Users\tigee\source\repos\AirportTickets2\AirportTickets2\bin\Debug\AirportTickets2.pdb
+C:\Users\tigee\source\repos\AirportTickets2\AirportTickets2\obj\Debug\AirportTickets2.csproj.AssemblyReference.cache
+C:\Users\tigee\source\repos\AirportTickets2\AirportTickets2\obj\Debug\AirportTickets2.Properties.Resources.resources
+C:\Users\tigee\source\repos\AirportTickets2\AirportTickets2\obj\Debug\AirportTickets2.csproj.GenerateResource.cache
+C:\Users\tigee\source\repos\AirportTickets2\AirportTickets2\obj\Debug\AirportTickets2.csproj.CoreCompileInputs.cache
+C:\Users\tigee\source\repos\AirportTickets2\AirportTickets2\obj\Debug\AirportTickets2.exe
+C:\Users\tigee\source\repos\AirportTickets2\AirportTickets2\obj\Debug\AirportTickets2.pdb
+C:\Users\tigee\source\repos\AirportTickets2 — копия\AirportTickets2\bin\Debug\AirportTickets2.exe.config
+C:\Users\tigee\source\repos\AirportTickets2 — копия\AirportTickets2\bin\Debug\AirportTickets2.exe
+C:\Users\tigee\source\repos\AirportTickets2 — копия\AirportTickets2\bin\Debug\AirportTickets2.pdb
+C:\Users\tigee\source\repos\AirportTickets2 — копия\AirportTickets2\obj\Debug\AirportTickets2.csproj.AssemblyReference.cache
+C:\Users\tigee\source\repos\AirportTickets2 — копия\AirportTickets2\obj\Debug\AirportTickets2.Properties.Resources.resources
+C:\Users\tigee\source\repos\AirportTickets2 — копия\AirportTickets2\obj\Debug\AirportTickets2.csproj.GenerateResource.cache
+C:\Users\tigee\source\repos\AirportTickets2 — копия\AirportTickets2\obj\Debug\AirportTickets2.csproj.CoreCompileInputs.cache
+C:\Users\tigee\source\repos\AirportTickets2 — копия\AirportTickets2\obj\Debug\AirportTickets2.exe
+C:\Users\tigee\source\repos\AirportTickets2 — копия\AirportTickets2\obj\Debug\AirportTickets2.pdb
