@@ -93,14 +93,67 @@ namespace AirportTicketSystem
         private static readonly object _lock = new object();
 
         public List<Fare> Fares { get; set; }
-        public List<Ticket> SoldTickets { get; private set; }
+        public List<Ticket> SoldTickets { get; set; }
 
         // Приватный конструктор
         private Airport()
         {
             Fares = new List<Fare>();
             SoldTickets = new List<Ticket>();
-            InitializeDefaultFares();
+
+            // Инициализируем БД
+            DatabaseManager.InitializeDatabase();
+
+            // Загружаем данные из БД при старте
+            LoadDataFromDatabase();
+        }
+
+        // Загрузка данных из БД
+        private void LoadDataFromDatabase()
+        {
+            var faresFromDb = DatabaseManager.LoadFaresFromDatabase();
+            if (faresFromDb.Count > 0)
+            {
+                Fares = faresFromDb;
+            }
+            else
+            {
+                InitializeDefaultFares();
+                DatabaseManager.SaveFaresToDatabase(Fares);
+            }
+
+            SoldTickets = DatabaseManager.LoadTicketsFromDatabase();
+        }
+
+        // Модифицируем метод покупки билета для сохранения в БД
+        public bool PurchaseTicket(Passenger passenger, Destination dest)
+        {
+            Fare fare = Fares.Find(f => f.Destination == dest);
+            if (fare != null)
+            {
+                var ticket = new Ticket(passenger, fare);
+                SoldTickets.Add(ticket);
+
+                // Сохраняем в БД
+                DatabaseManager.SaveTicketToDatabase(ticket);
+                return true;
+            }
+            return false;
+        }
+
+        // Модифицируем метод добавления тарифа для сохранения в БД
+        public void AddFare(Fare fare)
+        {
+            // Удаляем старый тариф для этого направления
+            var existing = Fares.FirstOrDefault(f => f.Destination == fare.Destination);
+            if (existing != null)
+            {
+                Fares.Remove(existing);
+            }
+            Fares.Add(fare);
+
+            // Обновляем в БД
+            DatabaseManager.SaveFaresToDatabase(Fares);
         }
 
         // Singleton инстанс
@@ -130,16 +183,16 @@ namespace AirportTicketSystem
         }
 
         // Добавить тариф
-        public void AddFare(Fare fare)
-        {
-            // Удаляем старый тариф для этого направления
-            var existing = Fares.FirstOrDefault(f => f.Destination == fare.Destination);
-            if (existing != null)
-            {
-                Fares.Remove(existing);
-            }
-            Fares.Add(fare);
-        }
+        //public void AddFare(Fare fare)
+        //{
+        //    // Удаляем старый тариф для этого направления
+        //    var existing = Fares.FirstOrDefault(f => f.Destination == fare.Destination);
+        //    if (existing != null)
+        //    {
+        //        Fares.Remove(existing);
+        //    }
+        //    Fares.Add(fare);
+        //}
 
         // Удалить тариф
         public bool RemoveFare(Destination destination)
@@ -154,16 +207,16 @@ namespace AirportTicketSystem
         }
 
         // Купить билет
-        public bool PurchaseTicket(Passenger passenger, Destination dest)
-        {
-            Fare fare = Fares.Find(f => f.Destination == dest);
-            if (fare != null)
-            {
-                SoldTickets.Add(new Ticket(passenger, fare));
-                return true;
-            }
-            return false;
-        }
+        //public bool PurchaseTicket(Passenger passenger, Destination dest)
+        //{
+        //    Fare fare = Fares.Find(f => f.Destination == dest);
+        //    if (fare != null)
+        //    {
+        //        SoldTickets.Add(new Ticket(passenger, fare));
+        //        return true;
+        //    }
+        //    return false;
+        //}
 
         // Посчитать сумму покупок пассажира
         public double CalculatePassengerTotal(string passportNumber)

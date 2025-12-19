@@ -1,62 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\",
+  "WorkspaceRootPath": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|c:\\users\\tigee\\source\\repos\\airporttickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\airporttickets2\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|c:\\users\\tigee\\source\\repos\\airporttickets3\\airporttickets2\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|c:\\users\\tigee\\source\\repos\\airporttickets3\\airporttickets2\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\airporttickets2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets3\\airporttickets2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\airporttickets2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets3\\airporttickets2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\airporttickets2\\secondform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\secondform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\airporttickets2\\secondform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\secondform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\airporttickets2\\secondform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\secondform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\airporttickets2\\addfareform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\addfareform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\airporttickets2\\addfareform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\addfareform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\airporttickets2\\addfareform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\addfareform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\airporttickets2\\purchaseticketform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\purchaseticketform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\airporttickets2\\purchaseticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\purchaseticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\airporttickets2\\purchaseticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\purchaseticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\airporttickets2\\airportclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets3\\airporttickets2\\airportclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\airportclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\airporttickets2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets3\\airporttickets2\\purchaseticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\purchaseticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets3\\airporttickets2\\addfareform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\addfareform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets3\\airporttickets2\\secondform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\secondform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets3\\airporttickets2\\purchaseticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\purchaseticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets3\\airporttickets2\\addfareform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\addfareform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets3\\airporttickets2\\secondform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\secondform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets3\\airporttickets2\\purchaseticketform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\purchaseticketform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets3\\airporttickets2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets3\\airporttickets2\\secondform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\secondform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|C:\\Users\\tigee\\source\\repos\\AirportTickets3\\airporttickets2\\addfareform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31CD259-4FC2-4ABA-8E23-8E7576A89AB4}|AirportTickets2\\AirportTickets2.csproj|solutionrelative:airporttickets2\\addfareform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,172 +70,198 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddFareForm.cs",
+              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\AddFareForm.cs",
+              "RelativeDocumentMoniker": "AirportTickets2\\AddFareForm.cs",
+              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\AddFareForm.cs",
+              "RelativeToolTip": "AirportTickets2\\AddFareForm.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwDIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:19:48.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "SecondForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\AirportTickets2\\SecondForm.cs",
-              "RelativeDocumentMoniker": "AirportTickets2\\SecondForm.cs",
-              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets2\\AirportTickets2\\SecondForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "..\\AirportTickets2\\AirportTickets2\\SecondForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T17:45:02.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PurchaseTicketForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\AirportTickets2\\PurchaseTicketForm.Designer.cs",
-              "RelativeDocumentMoniker": "AirportTickets2\\PurchaseTicketForm.Designer.cs",
-              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\AirportTickets2\\PurchaseTicketForm.Designer.cs",
-              "RelativeToolTip": "AirportTickets2\\PurchaseTicketForm.Designer.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAADwv4EAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T17:43:30.83Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "PurchaseTicketForm.cs",
-              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\AirportTickets2\\PurchaseTicketForm.cs",
+              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\PurchaseTicketForm.cs",
               "RelativeDocumentMoniker": "AirportTickets2\\PurchaseTicketForm.cs",
-              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\AirportTickets2\\PurchaseTicketForm.cs",
+              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\PurchaseTicketForm.cs",
               "RelativeToolTip": "AirportTickets2\\PurchaseTicketForm.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAADwv3MAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAiwFcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T17:42:38.233Z"
+              "WhenOpened": "2025-12-14T17:42:38.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\MainForm.cs",
+              "RelativeDocumentMoniker": "AirportTickets2\\MainForm.cs",
+              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "AirportTickets2\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:17:30.609Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\MainForm.cs",
+              "RelativeDocumentMoniker": "AirportTickets2\\MainForm.cs",
+              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\MainForm.cs",
+              "RelativeToolTip": "AirportTickets2\\MainForm.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAiwP8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:18:23.691Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\AirportTickets2\\MainForm.cs",
-              "RelativeDocumentMoniker": "AirportTickets2\\MainForm.cs",
-              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\AirportTickets2\\MainForm.cs",
-              "RelativeToolTip": "AirportTickets2\\MainForm.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAlwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T17:18:23.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\AirportTickets2\\MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "AirportTickets2\\MainForm.Designer.cs",
-              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\AirportTickets2\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\MainForm.Designer.cs",
               "RelativeToolTip": "AirportTickets2\\MainForm.Designer.cs",
-              "ViewState": "AgIAAKAAAAAAAAAAAAAQwGMBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEsBAAAAAAAAAAAAwE4BAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-14T17:18:17.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SecondForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\AirportTickets2\\SecondForm.Designer.cs",
-              "RelativeDocumentMoniker": "AirportTickets2\\SecondForm.Designer.cs",
-              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\AirportTickets2\\SecondForm.Designer.cs",
-              "RelativeToolTip": "AirportTickets2\\SecondForm.Designer.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAADwv1sAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "AirportTickets2\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\DatabaseManager.cs",
+              "RelativeToolTip": "AirportTickets2\\DatabaseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T17:45:09.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\AirportTickets2\\Program.cs",
-              "RelativeDocumentMoniker": "AirportTickets2\\Program.cs",
-              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\AirportTickets2\\Program.cs",
-              "RelativeToolTip": "AirportTickets2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T17:44:45.69Z"
+              "WhenOpened": "2025-12-17T21:36:11.962Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "SecondForm.cs",
-              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\AirportTickets2\\SecondForm.cs",
-              "RelativeDocumentMoniker": "AirportTickets2\\SecondForm.cs",
-              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\AirportTickets2\\SecondForm.cs",
-              "RelativeToolTip": "AirportTickets2\\SecondForm.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAADwv48AAAABAAAAAAAAAA==",
+              "Title": "AirportClasses.cs",
+              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\AirportClasses.cs",
+              "RelativeDocumentMoniker": "AirportTickets2\\AirportClasses.cs",
+              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\AirportClasses.cs",
+              "RelativeToolTip": "AirportTickets2\\AirportClasses.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAIAwwF4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T17:45:26.593Z"
+              "WhenOpened": "2025-12-14T17:21:22.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddFareForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\AddFareForm.cs",
+              "RelativeDocumentMoniker": "AirportTickets2\\AddFareForm.cs",
+              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\AddFareForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "AirportTickets2\\AddFareForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:19:32.595Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AddFareForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\AirportTickets2\\AddFareForm.cs",
-              "RelativeDocumentMoniker": "AirportTickets2\\AddFareForm.cs",
-              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets2\\AirportTickets2\\AddFareForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "..\\AirportTickets2\\AirportTickets2\\AddFareForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Title": "PurchaseTicketForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\PurchaseTicketForm.cs",
+              "RelativeDocumentMoniker": "AirportTickets2\\PurchaseTicketForm.cs",
+              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\PurchaseTicketForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "AirportTickets2\\PurchaseTicketForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T17:19:32.595Z"
+              "WhenOpened": "2025-12-14T17:42:33.282Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AddFareForm.cs",
-              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\AirportTickets2\\AddFareForm.cs",
-              "RelativeDocumentMoniker": "AirportTickets2\\AddFareForm.cs",
-              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\AirportTickets2\\AddFareForm.cs",
-              "RelativeToolTip": "AirportTickets2\\AddFareForm.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAADwvz4AAAABAAAAAAAAAA==",
+              "Title": "SecondForm.cs",
+              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\SecondForm.cs",
+              "RelativeDocumentMoniker": "AirportTickets2\\SecondForm.cs",
+              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\SecondForm.cs",
+              "RelativeToolTip": "AirportTickets2\\SecondForm.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAADwv3wAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T17:19:48.24Z"
+              "WhenOpened": "2025-12-14T17:45:26.593Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AddFareForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\AirportTickets2\\AddFareForm.Designer.cs",
-              "RelativeDocumentMoniker": "AirportTickets2\\AddFareForm.Designer.cs",
-              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\AirportTickets2\\AddFareForm.Designer.cs",
-              "RelativeToolTip": "AirportTickets2\\AddFareForm.Designer.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAADwv2sAAAABAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "SecondForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\SecondForm.cs",
+              "RelativeDocumentMoniker": "AirportTickets2\\SecondForm.cs",
+              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\SecondForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "AirportTickets2\\SecondForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T17:19:52.087Z"
+              "WhenOpened": "2025-12-14T17:45:02.867Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "PurchaseTicketForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\AirportTickets2\\PurchaseTicketForm.cs",
-              "RelativeDocumentMoniker": "AirportTickets2\\PurchaseTicketForm.cs",
-              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets2\\AirportTickets2\\PurchaseTicketForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "..\\AirportTickets2\\AirportTickets2\\PurchaseTicketForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Title": "PurchaseTicketForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\PurchaseTicketForm.Designer.cs",
+              "RelativeDocumentMoniker": "AirportTickets2\\PurchaseTicketForm.Designer.cs",
+              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\PurchaseTicketForm.Designer.cs",
+              "RelativeToolTip": "AirportTickets2\\PurchaseTicketForm.Designer.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAADwv4EAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T17:42:33.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AirportClasses.cs",
-              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\AirportTickets2\\AirportClasses.cs",
-              "RelativeDocumentMoniker": "AirportTickets2\\AirportClasses.cs",
-              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\AirportTickets2\\AirportClasses.cs",
-              "RelativeToolTip": "AirportTickets2\\AirportClasses.cs",
-              "ViewState": "AgIAACABAAAAAAAAAADwvzoBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T17:21:22.139Z"
+              "WhenOpened": "2025-12-14T17:43:30.83Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets2 \u2014 \u043A\u043E\u043F\u0438\u044F3\\AirportTickets2\\MainForm.cs",
-              "RelativeDocumentMoniker": "AirportTickets2\\MainForm.cs",
-              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets2\\AirportTickets2\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "..\\AirportTickets2\\AirportTickets2\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Title": "SecondForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\SecondForm.Designer.cs",
+              "RelativeDocumentMoniker": "AirportTickets2\\SecondForm.Designer.cs",
+              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\SecondForm.Designer.cs",
+              "RelativeToolTip": "AirportTickets2\\SecondForm.Designer.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAADwv1sAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T17:17:30.609Z"
+              "WhenOpened": "2025-12-14T17:45:09.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\Program.cs",
+              "RelativeDocumentMoniker": "AirportTickets2\\Program.cs",
+              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\Program.cs",
+              "RelativeToolTip": "AirportTickets2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:44:45.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddFareForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\AddFareForm.Designer.cs",
+              "RelativeDocumentMoniker": "AirportTickets2\\AddFareForm.Designer.cs",
+              "ToolTip": "C:\\Users\\tigee\\source\\repos\\AirportTickets3\\AirportTickets2\\AddFareForm.Designer.cs",
+              "RelativeToolTip": "AirportTickets2\\AddFareForm.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAADwv2sAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:19:52.087Z",
+              "EditorCaption": ""
             }
           ]
         }
