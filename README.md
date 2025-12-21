@@ -98,7 +98,9 @@ string password = "ваш_пароль"; // ваш пароль MySQL
 
 ## Диаграмма классов
 
-<img width="2000" height="2200" alt="image" src="https://github.com/user-attachments/assets/1a15d080-dde6-4a45-9662-cad5a47a226a" />
+<img width="2000" height="2200" alt="image" src="DiagramOfClasses.png" />
+
+
 
 
 
